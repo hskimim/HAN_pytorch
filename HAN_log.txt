@@ -1,0 +1,43 @@
+log list
+Train epoch : 1,  loss : 0.7867679595947266,  accuracy :0.658, learning rate :0.009
+
+Train epoch : 2,  loss : 0.6004376411437988,  accuracy :0.665, learning rate :0.008
+
+Val Epoch : 2, Val Loss : 0.686 , Val Accuracy : 0.659
+
+Train epoch : 3,  loss : 0.8486897945404053,  accuracy :0.668, learning rate :0.008
+
+Train epoch : 4,  loss : 0.6839591264724731,  accuracy :0.671, learning rate :0.007
+
+Val Epoch : 4, Val Loss : 0.830 , Val Accuracy : 0.663
+
+Train epoch : 5,  loss : 0.723807156085968,  accuracy :0.673, learning rate :0.006
+
+Train epoch : 6,  loss : 0.7063800692558289,  accuracy :0.675, learning rate :0.006
+
+Val Epoch : 6, Val Loss : 0.832 , Val Accuracy : 0.658
+
+Train epoch : 7,  loss : 0.7294747829437256,  accuracy :0.677, learning rate :0.005
+
+Train epoch : 8,  loss : 0.7387301921844482,  accuracy :0.678, learning rate :0.005
+
+Val Epoch : 8, Val Loss : 0.978 , Val Accuracy : 0.665
+
+Train epoch : 9,  loss : 0.8197939991950989,  accuracy :0.680, learning rate :0.004
+
+Train epoch : 10,  loss : 0.8035174608230591,  accuracy :0.681, learning rate :0.004
+
+Val Epoch : 10, Val Loss : 0.685 , Val Accuracy : 0.666
+
+Train epoch : 11,  loss : 0.8112872838973999,  accuracy :0.682, learning rate :0.004
+
+Train epoch : 12,  loss : 0.7385613918304443,  accuracy :0.683, learning rate :0.003
+
+Val Epoch : 12, Val Loss : 0.806 , Val Accuracy : 0.666
+
+Train epoch : 13,  loss : 0.8115079402923584,  accuracy :0.686, learning rate :0.003
+
+Train epoch : 14,  loss : 0.766478419303894,  accuracy :0.687, learning rate :0.003
+
+Val Epoch : 14, Val Loss : 0.747 , Val Accuracy : 0.670
+
